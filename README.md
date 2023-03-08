@@ -16,3 +16,7 @@ Submitted by KL3642
 ## Client Site ##
 
 http://kl3642diningconcierge.s3-website-us-east-1.amazonaws.com/
+
+## CURRENTLY DISABLED ##
+
+The Cloudwatch Rule for the trigger is currently turned off.
